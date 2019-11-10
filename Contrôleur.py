@@ -8,3 +8,6 @@ class Controleurs(Banque):
          Banque.__init__(self,nom)#qui fait l'appel au constructeur de la classe mére
          self.matricule=matricule
          #Gestionnaire est aussi recruté de la banque
+
+         #Aboubakar Ishaga 
+         #17B593FS
