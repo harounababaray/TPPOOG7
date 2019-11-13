@@ -149,26 +149,16 @@ menu()
 
     continuer=input("Voulez vous continuer ? (oui/non) : ")
     
-        # Noms     Prenoms       Matricules YOUTUBE
+       
         
-       # MAHAMAT AHMAT DJABAR : 18A883FS https://youtu.be/Ji4xgXVjfzI
-                                           
-        # MAHAMAT ABATCHA : 17A940FS  https://youtu.be/V-1eoY4y9rE
-        
-        # MAHAMAT IDRISS ADAM : 18A042FS  https://youtu.be/_Ny1Qf3HT8M
-        
-         # MAHAMAT MAHAMADOU ALHADJI : 18B316FS
-         
-          # SOULEYMANE MAHAMAT MALLOUM : 18A046FS
-          
-           # SOUAIDOUMBE VICTORINE : 18A899FS  https://youtu.be/AtSBhjjXCsk
+  
+    
            
-            # ABOUBAKAR ISHAGA : 17B593FS
+       
             
-             # OUSMANOU ALHADJI AMADOU :18A885FS
+    
              
-              # HAROUNA
               
-               # AHMAT ADOUM IDRISS :18B004FS https://youtu.be/RYVSCEuyBUg
+  
                   
    
