@@ -9,5 +9,5 @@ Class Guichetieres(Banque):
           Banque.__init__(self,nomGuichetuier,prenomGuichetier)
           self.poste= poste
 
-Nom:Ousmanou alhadji Amadou 
-Matricule :18A885FS
+#Nom:Ousmanou alhadji Amadou 
+#Matricule :18A885FS
